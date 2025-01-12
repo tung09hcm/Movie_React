@@ -4,7 +4,7 @@ import "../css/Navbar.css"
 function NavBar() {
     return <nav className="navbar">
         <div className="navbar-brand">
-            <Link to="/">Movie App</Link>
+            <Link to="/Movie_React">Movie App</Link>
         </div>
         <div className="navbar-links">
             <Link to="/Movie_React" className="nav-link">Home</Link>
